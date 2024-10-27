@@ -1,3 +1,5 @@
 # f24_2244_1
-ddedede
+<<<<<<< HEAD
+commit from dev
 new commit from main
+
