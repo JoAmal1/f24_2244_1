@@ -1,5 +1,5 @@
 # f24_2244_1
-<<<<<<< HEAD
-commit from dev
+mmit from dev
 new commit from main
+28-10 commit from dev
 
